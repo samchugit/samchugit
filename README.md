@@ -31,7 +31,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samchugit&theme=buefy&layout=compact" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=samchugit.samchugit)
+![visitors](https://spot-indigo-piper.glitch.me/badge?page_id=samchugit.samchugit&left_text=Visitors)
 
 :star: From [samchugit](https://github.com/samchugit/)
 <!--
