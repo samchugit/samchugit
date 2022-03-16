@@ -8,6 +8,11 @@
 - 📝 I’m writing articles on [https://blog.samchu.cn/](https://blog.samchu.cn/)
 - 📫 How to reach me: <samchu-social@outlook.com>
 
+<h3>📈 Weekly Development Breakdown</h3>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h3>🛠 Tech Stack</h3>
 
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=white)
