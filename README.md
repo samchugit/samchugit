@@ -11,6 +11,14 @@
 <h3>📈 Weekly Development Breakdown</h3>
 
 <!--START_SECTION:waka-->
+
+```text
+From: 08 March 2022 - To: 15 March 2022
+
+TeX      1 hr 9 mins     ███████████████████████▓░   95.31 %
+Python   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+```
+
 <!--END_SECTION:waka-->
 
 <h3>🛠 Tech Stack</h3>
