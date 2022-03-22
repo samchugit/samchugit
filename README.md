@@ -13,10 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 March 2022 - To: 20 March 2022
+From: 14 March 2022 - To: 21 March 2022
 
-TeX      1 hr 9 mins     ████████████░░░░░░░░░░░░░   47.74 %
-Other    32 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.69 %
+TeX          1 hr 7 mins     ████████▓░░░░░░░░░░░░░░░░   34.50 %
+C++          56 mins         ███████▒░░░░░░░░░░░░░░░░░   28.86 %
+Other        32 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.70 %
 ```
 
 <!--END_SECTION:waka-->
