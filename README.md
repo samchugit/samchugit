@@ -13,7 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 May 2022 - To: 27 May 2022
+From: 21 May 2022 - To: 28 May 2022
 
 MATLAB        1 hr 48 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   54.54 %
 C             43 mins         ⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.01 %
