@@ -13,7 +13,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 23 June 2022 - To: 30 June 2022
+
+MATLAB   2 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   83.89 %
+JSON     0 secs          ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.11 %
 ```
 
 <!--END_SECTION:waka-->
