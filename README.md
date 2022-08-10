@@ -13,7 +13,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 02 August 2022 - To: 09 August 2022
+
+C       37 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   63.81 %
+Other   21 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.19 %
 ```
 
 <!--END_SECTION:waka-->
