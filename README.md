@@ -13,9 +13,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 October 2022 - To: 11 October 2022
+From: 05 October 2022 - To: 12 October 2022
 
-MATLAB   3 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+MATLAB   3 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀   72.85 %
+JSON     1 min           ⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.15 %
 ```
 
 <!--END_SECTION:waka-->
