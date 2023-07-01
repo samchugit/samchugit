@@ -1,9 +1,9 @@
 <h1 align="center">Hi👋, I'm Sam Chu</h1>
-<h3 align="center">A UESTC student passionate about cutting edge backend technologies.</h3>
+<h3 align="center">A backend developer. A home lab maintainer. An Arch Linux follower.</h3>
 
 <h3>👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently working on [GPS signal processing](https://github.com/samchugit/zynq-gps-ps)
+- 🔭 I’m currently working on becoming a wage slave👨‍💻
 - 🌱 I’m currently learning C/C++ & operating systems
 - 📝 I’m writing articles on [https://blog.samchu.cn/](https://blog.samchu.cn/)
 - 📫 How to reach me: <samchu-social@outlook.com>
